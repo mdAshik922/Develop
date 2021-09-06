@@ -1,0 +1,161 @@
+body{
+    font-family: 'poppins', sans-serif;
+   
+    background-color: rgb(37, 41, 41);
+}
+h1{
+    font-size: 50px;
+    color:rgb(19, 31, 27);
+}
+h2{
+    font-size: 40px;
+}
+
+.section-container{
+    background-image: url(Untitled\ design\ \(1\).png);
+    background-repeat:no-repeat;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
+.programming{
+    color:brown;
+}
+.my-name{
+    color:olive;
+
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+    
+    
+}
+.Welcome{
+    width: 55%;
+    
+   margin: 30px;
+    background-image:url(shapes/Frame\ 58.jpg) ;
+    padding-left: 30px;
+}
+/* .play{
+    
+    border: 10px solid hotpink;
+    border-radius: 20px;
+    
+} */
+.developer-picture{
+    width: 50px;
+ 
+}
+
+.click-link{
+    text-decoration:none;
+    background-color: linear-gradient(rgb(8, 156, 58), rgb(142, 81, 192));
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700px;
+    color:rgb(148, 80, 226);
+    border: 3px solid;
+    margin-left: 40px;
+}
+
+
+.talk{
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.picture-section{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.juniors{
+    
+    width: 50%;
+   
+    margin: 1%;
+    
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 35px rgb(216, 126, 126);
+    color: gainsboro;
+   
+
+}
+
+.project-img{
+    border: 2px solid;
+    margin: 3px 3px 3px;
+    padding: 3px 3px 3px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 280px;  
+    border-image: round ;  
+    }
+#web-juniors{
+    border-left: 7px double;
+border-image: liner-gradient(rgb(255, 0, 119), green);
+border-image-slice: 2;
+}
+#bold{
+    border-left: 7px double;
+    border-image: liner-gradient(cyan, chartreuse);
+    border-image-slice: 2;
+}
+#junior{
+    border-left: 7px double;
+    border-image: linear-Gradients(blue, cyan) ;
+    border-image-slice: 2;
+
+}
+
+
+     /*<<<<<<<<<<< social >>>>>>>>>>>>>>>>>>> */
+.my-container{
+    width: 98%;
+    border: 5px solid;
+  padding: 15px;
+  margin: 15px;
+  display:flex;
+align-items:center;
+justify-content:center;
+flex-direction: row;
+ text-decoration: underline rgb(47, 145, 96);
+  border-radius: 20px;
+  
+  box-shadow: 10px 10px 25px rgb(143, 184, 231);
+}
+
+.youtube-subascriber{
+    padding-left: 20px;
+    text-align-last: right;
+    color: gainsboro;
+}
+.instragram{
+    padding-left: 250px;
+text-align-last: center;
+color: gainsboro;
+}
+.dirbble{
+    padding-left: 100px;
+    text-align-last: left; 
+    color: gainsboro;
+  
+}
+
+       /* footer */
+footer p{
+    text-align: center;
+    font-size: medium;
+    background-color: firebrick;
+    color: floralwhite;
+}
+
+                   /* end */
